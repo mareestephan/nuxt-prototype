@@ -1,6 +1,7 @@
 <template>
   <div class="container">
-    <h1>Home</h1>
+    <!-- <span style="text-decoration: line-through;">Stephan</span> Frances is super annoying. </h1> -->
+    <h1 style="text-decoration: line-through;">Homepage </h1>
   </div>
 </template>
 
